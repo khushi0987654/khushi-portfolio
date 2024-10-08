@@ -1,6 +1,9 @@
 I built my portfolio website to showcase my professional, technical, and academic profile using  tech-stacks like HTML, CSS, SCSS, and JavaScript. I update my portfolio every week to make it up to date.
 link-
 https://khushi0987654.github.io/khushi-portfolio/
+
+
+demo-
 ![Screenshot (43)](https://github.com/user-attachments/assets/647ad228-49dd-42d0-9cc7-e91066e1a1be)
 ![Screenshot (46)](https://github.com/user-attachments/assets/0889a95c-7958-4a25-80ba-017f4bd5cb60)
 
